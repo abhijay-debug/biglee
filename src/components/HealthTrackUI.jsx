@@ -106,18 +106,30 @@ export default function HealthTrackUI() {
               <img src="/images/one.jpg" alt="Explore more" className="w-full h-full object-cover" />
             </div>
             <div>
+            <a href="#contact">
+
               <p className="text-sm font-medium">Explore more</p>
+            </a>
             </div>
           </div>
           <div className="space-y-3 text-sm">
             <div className="flex justify-between border-b pb-1">
+              <a href="#About">
+
               <span>Our Story</span>
+              </a>
             </div>
             <div className="flex justify-between border-b pb-1">
+              <a href="#services">
+
               <span>Our Services</span>
+              </a>
             </div>
             <div className="flex justify-between border-b pb-1">
+              <a href="#work">
+
               <span>Our Features</span>
+              </a>
             </div>
           </div>
         </div>
