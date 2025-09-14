@@ -86,7 +86,7 @@ export default function HealthTrackUI() {
       {/* Hero Section */}
       <section id="hero" className="max-w-7xl  mx-auto px-6 py-12 grid lg:grid-cols-2  gap-10 items-center">
         <div>
-          <h1 className="text-5xl  text-center md:text-6xl font-bold leading-[14vh] mb-6">
+          <h1 className="text-5xl  text-center md:text-6xl font-bold leading-[10vh] lg:leading-[12vh] mb-6">
            Transform Your Body & Life with My <span className="text-cyan-300">24/7</span> Coaching
           </h1>
           <p className="text-white mb-6">
@@ -103,7 +103,7 @@ export default function HealthTrackUI() {
         <div className="flex flex-col gap-6">
           <div className="flex items-center gap-4">
             <div className="w-40 h-24 rounded-xl overflow-hidden">
-              <img src="/images/one.jpg" alt="Explore more" className="w-full h-full object-cover" />
+              <img src="/images/hero.jpg" alt="Explore more" className="w-full h-full object-cover" />
             </div>
             <div>
             <a href="#contact">

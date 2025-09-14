@@ -92,13 +92,14 @@ export default function CallToAction() {
 
           {/* Nav Links */}
           <ul className="flex gap-6 text-gray-300 text-sm mr-10">
+            <li><a href="#About" className="hover:text-white transition">About</a></li>
             <li><a href="#pricing" className="hover:text-white transition">Plans</a></li>
             <li><a href="#work" className="hover:text-white transition">How It's Work</a></li>
             <li><a href="#contact" className="hover:text-white transition">Contact</a></li>
           </ul>
 
           {/* Social Icons */}
-          <div className="flex gap-5 text-2xl text-white">
+          <div className="flex gap-5 text-2xl text-white mb-2">
             <a href="https://wa.me/916268230392?text=Hi" target="_blank" rel="noreferrer" className="hover:text-green-400">
               <FaWhatsapp />
             </a>
