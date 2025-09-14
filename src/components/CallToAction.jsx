@@ -91,7 +91,7 @@ export default function CallToAction() {
           </h1>
 
           {/* Nav Links */}
-          <ul className="flex gap-6 text-gray-300 text-sm mr-10">
+          <ul className="flex gap-6 text-gray-300 text-sm mr-1">
             <li><a href="#About" className="hover:text-white transition">About</a></li>
             <li><a href="#pricing" className="hover:text-white transition">Plans</a></li>
             <li><a href="#work" className="hover:text-white transition">How It's Work</a></li>
