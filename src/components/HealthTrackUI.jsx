@@ -86,7 +86,7 @@ export default function HealthTrackUI() {
       {/* Hero Section */}
       <section id="hero" className="max-w-7xl  mx-auto px-6 py-12 grid lg:grid-cols-2  gap-10 items-center">
         <div>
-          <h1 className="text-5xl  text-center md:text-6xl font-bold leading-[10vh] lg:leading-[7vh] mb-6">
+          <h1 className="text-5xl  text-center md:text-6xl font-bold leading-[9vh] lg:leading-[12vh] mb-6">
            Transform Your Body & Life with My <span className="text-cyan-300">24/7</span> Coaching
           </h1>
           <p className="text-white mb-6">
