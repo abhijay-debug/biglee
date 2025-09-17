@@ -6,7 +6,7 @@ const AboutCoach = () => {
     <section id="About" className="max-w-7xl mx-auto px-6 py-12 grid lg:grid-cols-2  gap-10 items-start">
         <div>
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-           Meet Coach Biglee Murali
+           Meet Coach Biglee
           </h2>
 
           <div className="mb-6">
@@ -56,12 +56,7 @@ transform their bodies and lifestyles.
         <div className="relative">
           <img src="/images/nine.jpg" alt="Workout" className="w-full h-[400px] object-cover rounded-2xl" />
 
-          <div className="absolute md:top-6 top-4 right-6 bg-white shadow rounded-xl md:p-4 p-2 text-center w-32">
-            <p className="text-sm font-medium text-black mb-2">I’m Coach Biglee Murali</p>
-            <div className="flex justify-between text-xs text-gray-600">
-              
-            </div>
-          </div>
+        
 
          
         </div>

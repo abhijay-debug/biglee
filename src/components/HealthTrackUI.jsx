@@ -103,7 +103,7 @@ export default function HealthTrackUI() {
         <div className="flex flex-col gap-6">
           <div className="flex items-center gap-4">
             <div className="w-40 h-24 rounded-xl overflow-hidden">
-              <img src="/images/hero.jpg" alt="Explore more" className="w-full h-full object-cover" />
+              <img src="/images/eleven.jpg" alt="Explore more" className="w-full h-full object-cover" />
             </div>
             <div>
             <a href="#contact">
@@ -139,9 +139,7 @@ export default function HealthTrackUI() {
       <section  className="max-w-7xl mx-auto px-6 mb-16">
         <div className="rounded-2xl overflow-hidden relative">
           <img src="/images/six.jpg" alt="Health banner" className="w-full h-[350px] object-cover" />
-          <div className="absolute bottom-6 p left-6 bg-[linear-gradient(100deg,black_0%,white_200%)] px-4 py-2 rounded-full  text-lg font-medium">
-           I’m Coach Biglee Murali
-          </div>
+         
           <div className="absolute hidden md:block top-4 md:right-4 flex gap-2 text-xs">
             <span className="px-3 py-1 bg-[linear-gradient(100deg,black_0%,white_220%)] rounded-full ">HONEST COACHING</span>
             <span className="px-3 py-1 bg-[linear-gradient(100deg,black_0%,white_200%)] rounded-full">24/7 GUIDANCE</span>
