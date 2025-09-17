@@ -71,7 +71,7 @@ export default function DigitalTwin() {
             className="rounded-3xl shadow-xl"
           />
           <div className="absolute -bottom-6 -right-6 bg-black text-white text-sm px-4 py-2 rounded-full shadow-lg">
-            Powered by Coach Murli
+            Powered by Coach Biglee
           </div>
         </div>
       </div>
