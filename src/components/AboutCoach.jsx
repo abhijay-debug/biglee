@@ -3,7 +3,7 @@ import { FaInstagram } from 'react-icons/fa'
 
 const AboutCoach = () => {
   return (
-    <section id="About" className="max-w-7xl mx-auto px-6 py-12 grid lg:grid-cols-2  gap-10 items-start">
+    <section id="About" className="max-w-7xl mx-auto px-6 lg:py-12 grid lg:grid-cols-2  gap-10 items-start">
         <div>
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
            Meet Coach Biglee
