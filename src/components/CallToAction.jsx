@@ -1,6 +1,7 @@
 import React from "react";
 import { ClipboardCheck } from "lucide-react";
 import { FaWhatsapp, FaInstagram, FaFacebook, FaYoutube } from "react-icons/fa";
+import LifeStyle from "../LifeStyle";
 
 export default function CallToAction() {
   return (
@@ -81,7 +82,7 @@ export default function CallToAction() {
             </p>
         </div>
       </section>
-
+        <LifeStyle />
       {/* Footer */}
       <footer className="bg-black border-t border-white/10 py-10 mt-">
         <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-6">
